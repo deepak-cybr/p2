@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* banner section */
+
+.banner{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0, 0,0.4)),url("../img/p2.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+.heading-logo{
+    margin-top: 20px;
+}
+p > i{
+    color: white;
+    font-weight: lighter;
+    font-size: 40px;
+}
+.para3{
+    font-size: 40px;
+    line-height:0px;
+    font-weight: bolder;
+    color: white;
+}
+
+.heading-text{
+  color: white;
+}
+.banner-text{
+    text-align: center;
+    margin-top: 30px;
+}
+.para{
+    width: 50%;
+    text-align:justify;
+    
+}
+
+/* navigation bar */
+
+.nav-bar{
+    margin-left: 150px;
+}
+ul li{
+    display: inline;
+    padding: 15px;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: white;
+    
+}
+.heading-nav{
+    margin-top: 30px;
+}
+
+/* banner 2 lower section */
+
+.banner-section{
+    background-image: url("../img/p.jpg");
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.banner-icon{
+    position: absolute;
+    top: 480px;
+    margin-left: 180px;
+}
+.banner-icon >i{
+    
+    background-color: rgba(245, 252, 252, 0.979);
+    width: 190px;
+    height: 200px;
+    border:0px solid wheat;
+    border-radius: 2px;
+    }
+    .heading-banner2{
+        margin-top: 250px;
+        border: 1px solid black;
+        width: 640px;
+        text-align: center;
+        margin-left: 250px;
+    }
+    .icon3{
+        background-color: rgba(245, 252, 252, 0.979);
+        width:100%;
+        height: 270px;
+        text-align: center;
+        margin-top:40px ;
+    }
+    .para-icon3{
+        color:red;
+        font-weight: bolder;
+    margin-top: 80px;
+    }
+    .icon3 >i{
+        font-size: 70px;
+        padding: 10px;
+    }
+   .para1{
+       width: 710px;
+       margin-left: 220px;
+       margin-top: 20px;
+       text-align: center;
+   }
+
+   .para2{
+       width: 100%;
+   }
+   .img1{
+     position: relative;
+   }
+   .img1 >img{
+       width: 100%;
+       
+   }
+    .about-section{
+        margin-top: 30px;
+    }
+.heading{
+    text-align: center;
+    color: rgb(63, 181, 228);
+    margin-top: 15px;
+}
+   .punch{
+       background-color: rgb(201, 194, 194);
+       height: 350px;
+       top: 2130px;
+       position: absolute;
+       right:140px ;
+       width: 600px;
+       
+
+   }
+   
+   .punch >p{
+       padding: 15px;
+       width: 500px;
+       margin-left: 30px;
+       text-align: justify;
+       
+   }
